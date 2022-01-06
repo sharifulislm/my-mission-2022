@@ -119,13 +119,33 @@ h2.hadding2 {
 
 .ful-box {
 	width: 300px;
-	background-color: aquamarine;
+	background-color: #EDF5F6;
 	padding: 10px;
 	border-radius: 15px;
-	margin-left: 100px;
+	margin-bottom: 113px;
 	float: left;
+	
 }
+/* ..ful-box p {
+	color: white; */
 
+.box-icon1{
+	margin-left: 150px;
+	margin-right: 30px;
+	background-color: #aaebf3;
+	
+}
+/* .ful-box.box-icon1 p {
+    color: white;
+} */
+.box-icon2{
+	margin-left: 30px;
+}
+.box-icon3{
+	margin-left: 30px;
+	margin-right: 30px;
+	background-color: antiquewhite;
+}
 .icon-box {
 	width: 50%;
 	margin-left: 95px;
@@ -176,4 +196,7 @@ h1.missin {
 	padding: 0px;
 	font-family: 'Poppins';
 	font-size: 21px;
+}
+span.span-2022 {
+    color: #db3270;
 }
