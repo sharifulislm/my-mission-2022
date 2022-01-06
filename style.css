@@ -296,3 +296,59 @@ footer#footer-end {
     font-size: 15px;
     font-family: initial;
 }
+
+ /* start contact secton  */
+ section#contact {
+    width: 100%;
+    height: 475px;
+    background-color:white;
+	color: black
+}
+.contect {
+    width: 40%;
+    margin-left: 20px;
+	float: left;
+	margin-top: 15px;
+
+}
+.form-contact {
+    width: 50%;
+	float: left;
+	margin-left: 60px;
+}
+input.box {
+    font-size: 20px;
+    font-family: auto;
+    padding: 10px 250px;
+    padding-left: 5px;
+    margin-top: 10px;
+    background-color: #e7e2d9;
+}
+
+button.btn.button2 {
+    padding: 5px;
+    font-size: 15px;
+    padding: 5px 36px;
+    background-color: coral;
+    color: white;
+    border-radius: 10px;
+}
+h1.hedding {
+    text-align: center;
+    margin-top: 57px;
+    margin-left: -125px;
+}
+.info {
+    font-family: initial;
+    font-size: 20px;
+    line-height: 16px;
+    margin-left: 65px;
+}
+.info h3 {
+    border-bottom: 2px solid black;
+    padding-bottom: 8px;
+}
+textarea.Box.message {
+    padding-right: 260px;
+    margin-top: 10px;
+}
