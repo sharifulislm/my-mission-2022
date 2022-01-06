@@ -118,6 +118,7 @@ h2.hadding2 {
 
 
 .ful-box {
+	height: 250px;
 	width: 300px;
 	background-color: #EDF5F6;
 	padding: 10px;
@@ -126,18 +127,15 @@ h2.hadding2 {
 	float: left;
 	
 }
-/* ..ful-box p {
-	color: white; */
+
 
 .box-icon1{
-	margin-left: 150px;
-	margin-right: 30px;
+	margin-left: 173px;
+	/* margin-right: 30px; */
 	background-color: #aaebf3;
 	
 }
-/* .ful-box.box-icon1 p {
-    color: white;
-} */
+
 .box-icon2{
 	margin-left: 30px;
 }
@@ -199,4 +197,57 @@ h1.missin {
 }
 span.span-2022 {
     color: #db3270;
+}
+/* section number2 stop */
+/* section number3 start */
+#devleper-tiem{
+	/* display: flex; */
+}
+
+.dvlp-img-row{
+	width: 30%;
+	float: left;
+	margin-left: 120px;
+
+}
+.dvlp-img-row img{
+	width:100%;
+}
+.dvlp-content-row {
+    width: 50%;
+    float: left;
+    font-family: auto;
+    margin-left: 65px;
+}
+ .dvlp-col{
+	width:100%;
+
+
+}
+.dvlp-col h1 {
+    font-weight: 600;
+    font-size: 55px;
+    font-family: emoji;
+}
+.develop1{
+	margin: 0px;
+}
+
+h1.develop2 {
+    margin: 0;
+}
+.dvlp-col p {
+    font-size: 20px;
+    color: initial;
+    font-family: -webkit-pictograph;
+    /* line-height: 25px; */
+}
+.dvlp-col a {
+    text-decoration: none;
+  
+    background-color: #FF5959;
+    color: white;
+    padding: 12px 35px;
+    border-radius: 10px;
+    
 }
